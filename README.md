@@ -8,9 +8,13 @@ The RoboPunks website was created to enhance my programming skills and learn how
 
 ## Screenshots
 
-- Landing page:
+- **Landing page**:
 
-- Landing page - animated background:
+![robo](https://user-images.githubusercontent.com/27026036/207710769-98c1eaa8-1ae3-434c-a624-f56d89a7f5a2.png)
+
+- **Landing page** - animated background:
+
+![robopunks](https://user-images.githubusercontent.com/27026036/207710188-5f0ca989-a9ec-4bc5-8bff-cd93bc8a5b9b.gif)
 
 ## Used technologies
 
