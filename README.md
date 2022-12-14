@@ -1,15 +1,25 @@
-# Basic Sample Hardhat Project
+# RoboPunks
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+A sample landing page of fake RoboPunks retro game. Based on the YouTube tutorial.
 
-Try running some of the following tasks:
+## Purpose
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+RoboPunks website was created to enhance my programming skills and learn how to connect a web app to Metamask wallet
+
+## Screenshot
+
+- Landing page - high quality:
+
+- Landing page - animated background:
+
+## Used technologies
+
+- Visual Studio Code
+- Create React App
+- ChakraUI library
+- Hardhat - an Ethereum development platform
+- Smart contracts (solidity language)
+
+## How to run
+
+It is a regular CRA application, restore npm packages: `npm i`, then start a development server: `npm start`.
