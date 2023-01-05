@@ -1,6 +1,6 @@
-# RoboPunks
+# Robo Punks
 
-A sample landing page of a fake RoboPunks retro game. Based on the YouTube tutorial.
+A sample landing page of a fake Robo Punks retro game. Based on the YouTube tutorial.
 
 ## Purpose
 
