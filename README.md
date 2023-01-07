@@ -4,7 +4,7 @@ A sample landing page of a fake Robo Punks retro game. Based on the YouTube tuto
 
 ## Purpose
 
-The RoboPunks website was created to enhance my programming skills and learn how to connect a web app to a Metamask wallet.
+The Robo Punks website was created to enhance my programming skills and learn how to connect a web app to a Metamask wallet.
 
 ## Screenshots
 
