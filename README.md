@@ -8,7 +8,7 @@ The Robo Punks website was created to enhance my programming skills and learn ho
 
 ## Demo
 
-A live demo is available at: [robo-punks-ochre.vercel.app](robo-punks-ochre.vercel.app)
+A live demo is available at: [https://robo-punks-ochre.vercel.app](https://robo-punks-ochre.vercel.app)
 
 ## Screenshots
 
