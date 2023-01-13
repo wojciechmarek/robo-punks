@@ -26,4 +26,4 @@ The Robo Punks website was created to enhance my programming skills and learn ho
 
 ## How to run
 
-It is a regular CRA application, restore npm packages: `npm i`, then start a development server: `npm start`.
+It is a regular CRA (Create React Application) application, restore npm packages: `npm i`, then start a development server: `npm start`.
